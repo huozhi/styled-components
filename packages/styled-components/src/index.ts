@@ -1,3 +1,4 @@
+import 'client-only';
 import styled from './constructors/styled';
 
 export * from './base';
